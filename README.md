@@ -5,7 +5,7 @@ Mini Project for 4th Semester
  
  What is CSV file?. 
  
-CSV stands for "comma-separated values”.  In CSV file each value is separated by comma. Here we have following assumption about data in CSV file .  In first row we have columns name that are separated by comma .  Form second row on-ward we contain data corresponding each columns name for Example: 
+CSV stands for "comma-separated values”.  In CSV file each value is separated by comma. Here we have following assumption about data in CSV file .  In first row we have columns name that are separated by comma .  From second row on-ward we contain data corresponding each columns name for Example: 
 
 Text:
 name,roll <br>
@@ -26,7 +26,7 @@ If you open it in spreadsheet program like Excel . it will look like as follow :
 Write implementation of following operation in Either C++ or  C . 
  
  
-1. Create: this function except column name as input argument and create csv file  .     Input : Name , roll_no  Output: create a csv file with Header Name and Roll_no 
+1. Create: this function accepts column name as input argument and creates csv file  .     Input : Name , roll_no  Output: create a csv file with Header Name and Roll_no 
  
 2. IsSameStucture: Compare two CSV files whether they are same structure or not.       by same structure we mean that number column in both file is same and there is one to one mapping of column name.  
 
